@@ -1,0 +1,15 @@
+Package: StatComp20011
+Type: Package
+Title: Final project for 'Statistical Computing' course
+Version: 1.0
+Date: 2020-12-20
+Author: Jiaqi Wu
+Maintainer: Jiaqi Wu<wjq138@mail.ustc.edu.cn>
+Description: EM algorithm for bivariate normal data. 
+License: GPL (>= 2)
+RoxygenNote: 7.1.1
+Encoding: UTF-8
+Suggests: knitr, rmarkdown, norm, Ball, GeneralizedHyperbolic, MASS, RANN, boot, energy, DAAG, bootstrap, Rcpp, microbenchmark
+VignetteBuilder: knitr
+URL: https://github.com/james138/StatComp20011
+BugReports: https://github.com/james138/StatComp20011/issues
